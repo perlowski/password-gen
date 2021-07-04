@@ -10,4 +10,4 @@ https://perlowski.github.io/password-gen/
 
 #### Screenshot
 
-[Screenshot] (./assets/images/psGen img.png)
+[Screenshot] (https://github.com/perlowski/password-gen/blob/main/assets/images/psGen%20img.png)
